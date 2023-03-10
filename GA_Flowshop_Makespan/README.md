@@ -25,5 +25,7 @@ Furthermore, you can open this jupyter notebook in Google Colab or any other not
 
 ## References:
 https://www.sciencedirect.com/topics/computer-science/flow-shop-scheduling
+
 https://towardsdatascience.com/introduction-to-genetic-algorithms-including-example-code-e396e98d8bf3
+
 https://en.wikipedia.org/wiki/Flow_shop_scheduling
